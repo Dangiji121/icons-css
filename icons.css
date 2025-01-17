@@ -64,6 +64,27 @@
     .img-rss-feed {
       background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/063e7b0bb3d4a88582b97f4c26360d14310412f6/rss-feed.svg');
     }
+    .img-meta-tag {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/0b86f1b59c27db52bfd1be937d3ead22a332a718/meta-tag.svg');
+    }
+    .img-schema {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/0b86f1b59c27db52bfd1be937d3ead22a332a718/schema-marckup.svg');
+    }
+    .img-page {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/a7ff76d6b33f8c632b5d57d92a556e534098b739/page-icon.svg');
+    }
+    .img-google-drive {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/0b86f1b59c27db52bfd1be937d3ead22a332a718/schema-marckup.svg');
+    }
+    .img-terms {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/30175876065847828f0539b79c12951432c6653f/terms.svg');
+    }
+    .img-policy {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/30175876065847828f0539b79c12951432c6653f/policy.svg');
+    }
+    .img-gdpr-policy {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/30175876065847828f0539b79c12951432c6653f/gdpr-policy.svg');
+    }
 
     .menu-item-title {
       font-size: 0.7rem;
@@ -83,4 +104,3 @@
         max-width: calc(33.33% - 20px);
       }
     }
-    .brdCmb, .pTtl.itm{display:none;}
