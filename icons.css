@@ -83,7 +83,7 @@
       background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/a7ff76d6b33f8c632b5d57d92a556e534098b739/page-icon.svg');
     }
     .img-google-drive {
-      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/0b86f1b59c27db52bfd1be937d3ead22a332a718/schema-marckup.svg');
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/c95890ad41787040fa77b454f6dab4eecd35a052/google-drive.svg');
     }
     .img-terms {
       background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/30175876065847828f0539b79c12951432c6653f/terms.svg');
@@ -108,6 +108,18 @@
     }
     .img-google-index {
       background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/535cbe20e86b1f2891170dfb41c8470628a5ee21/google-index.svg');
+    }
+    .img-calculator {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/c95890ad41787040fa77b454f6dab4eecd35a052/calculator.svg');
+    }
+    .img-android {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/e1959ad3b90f2c6bb487a38c5ea8a4ebcc00041e/robot-android.svg');
+    }
+    .img-robot {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/e1959ad3b90f2c6bb487a38c5ea8a4ebcc00041e/robot.svg');
+    }
+    .img-image {
+      background-image: url('https://raw.githubusercontent.com/Dangiji121/svg-icons/e1959ad3b90f2c6bb487a38c5ea8a4ebcc00041e/image.svg');
     }
 
     .menu-item-title {
